@@ -1,6 +1,6 @@
 # testing gRPC with go
 
-unary
-server stream
-client stream
-bi-directional stream
+- unary
+- server stream
+- client stream
+- bi-directional stream
